@@ -40,3 +40,7 @@ will take care of installing necessary plugins
 To run all the tasks in a proper order
 
 ant all
+
+user guide
+
+https://docs.google.com/document/d/1EnH_S5nFyPnAEz7YYiQaHDQG3h1YZ6HUPJ5r-SPhrBo/edit?usp=sharing
